@@ -1,0 +1,10 @@
+import delithak
+
+xak = nublo.hak;
+  
+if xak.exist:
+  delit(xak);
+  mesagbox.shou(xak delitet✅)
+  
+aplikation.eksit;
+
